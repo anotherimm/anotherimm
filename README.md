@@ -43,14 +43,3 @@
 
 ---
 
-### 📌 Highlights
-- Web apps with modern frontend + backend integration
-- Mobile apps with React Native + Firebase
-- Embedded/IoT projects (Arduino, sensors, monitoring)
-
----
-
-### 📊 Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anotherimm&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="150" alt="top languages" />
-</p>
